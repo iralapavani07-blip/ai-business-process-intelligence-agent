@@ -1,0 +1,11 @@
+process_step,time_minutes,cost
+Order Received,5,10
+Verification,8,15
+Packaging,20,30
+Dispatch,35,50
+Delivery,25,40
+Order Received,6,12
+Verification,7,14
+Packaging,22,32
+Dispatch,40,55
+Delivery,28,42
