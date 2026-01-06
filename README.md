@@ -78,5 +78,17 @@ Expected Outcome:
 - Structured like an enterprise analytics pipeline
 - Directly applicable to operations and analytics roles
 
-## Author
-Professional interview-ready analytics project.
+## About This Work
+
+This project and case studies are independently designed and executed to demonstrate real-world business problem solving using data analytics and process intelligence techniques.  
+The focus is on practical decision-making, operational impact, and business value creation — not academic or toy examples.
+
+## Professional Business Case Studies
+
+### 1. Revenue Leakage & Upsell Intelligence – Subscription Business (SaaS Model)
+Independent business case study focused on identifying revenue leakage, downgrade patterns, and upsell opportunities using customer lifecycle and usage data.  
+📄 View Case Study: case_studies/revenue_leakage_upsell_case.md
+
+### 2. Operational Bottleneck & Cost Escalation Analysis – Logistics Business
+Independent business case study analyzing end-to-end logistics workflow to identify bottlenecks, SLA breach drivers, and cost escalation points.  
+📄 View Case Study: case_studies/operational_bottleneck_case_study.md
